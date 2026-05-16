@@ -3,17 +3,17 @@
 Magento 2 Back-end Developer with 7 years of experience building and maintaining e-commerce stores. Magento Expert Certified.
 
 <p>
-  <a href="https://certification.adobe.com/credential/verify/ca57ff4a-9b76-428b-a763-3180184a616a">
-    <img src="./assets/magento-expert-certificate.png" width="110" alt="Magento Expert Certificate">
-  </a>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Magento-2-orange?logo=magento&style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-Backend-777bb4?logo=php&style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyvä-Themes-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Typesense-Search-blue?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-Async-ff6600?logo=rabbitmq&style=flat-square&logoColor=white" />
+</p>
+
+<p>
+  <a href="https://certification.adobe.com/credential/verify/ca57ff4a-9b76-428b-a763-3180184a616a">
+    <img src="./assets/magento-expert-certificate.png" width="110" alt="Magento Expert Certificate">
+  </a>
 </p>
 
 ### Experience
