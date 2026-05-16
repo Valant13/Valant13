@@ -4,7 +4,7 @@ Magento 2 Back-end Developer with 7 years of experience building and maintaining
 
 <p>
   <a href="https://certification.adobe.com/credential/verify/ca57ff4a-9b76-428b-a763-3180184a616a">
-    <img src="./assets/magento-expert-certificate.png" width="220" alt="Magento Expert Certificate">
+    <img src="./assets/magento-expert-certificate.png" width="110" alt="Magento Expert Certificate">
   </a>
 </p>
 
