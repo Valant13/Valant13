@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nikita 👋
 
-<!--
-**Valant13/Valant13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Magento 2 Back-end Developer with 7 years of experience building and maintaining e-commerce stores. Magento Expert Certified.
 
-Here are some ideas to get you started:
+## Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Development and support of multiple Magento 2 (EE/CE) stores  
+- Magento upgrades and long-term maintenance  
+- Migration from Luma to Hyvä  
+- Implementation of third-party integrations (APIs, CRMs, services)  
+
+## Core Stack
+
+- Magento 2  
+- PHP, MySQL  
+- Hyvä Themes  
+- Typesense  
+- RabbitMQ  
+
+## Additional Experience
+
+- JavaScript, React  
+- Symfony  
+- Python, C#, C++  
+- Unreal Engine  
